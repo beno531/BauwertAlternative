@@ -8,6 +8,11 @@
     background-size: cover;
 }
 
+.background-test {
+    background-image: url(../images/test3.jpg);
+    background-size: cover;
+}
+
 .content-center {
     display: flex;
     align-items: center;
